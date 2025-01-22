@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/en-GB/view/alarm-gif-9878940352483067214"  />
+<img align="right" height="150" src="https://tenor.com/lVVOyZ04ouE.gif"  />
 
 ###
 
@@ -46,13 +46,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/bvgqar8rjepiyx9h8tyyuq60d">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bvgqar8rjepiyx9h8tyyuq60d&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohitsaw6207&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
