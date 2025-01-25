@@ -51,7 +51,17 @@
   </a>
 </div>
 
-###
+---
+
+## 🌟 Education
+
+- **MCKV College of Engineering**
+  - **Course:** B.VOC In Softaware Development
+  - **Year:** 2nd Year(3rd sem)
+  - **Current YGPA:** 8.8
+  - **Last Semester CGPA:** 9
+
+---
 
 <p align="left">Hello World!!</p>
 
@@ -69,3 +79,9 @@
 </div>
 
 ###
+---
+
+## 📫 Let's Connect!
+
+- **GitHub:** https://github.com/Rohitsaw6207
+- **Email:** rohitku6207@gmail.com
