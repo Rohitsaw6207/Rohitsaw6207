@@ -64,6 +64,14 @@
 ---
 
 ###
+---
+
+## 📫 Let's Connect!
+
+- **GitHub:** https://github.com/Rohitsaw6207
+- **Email:** rohitku6207@gmail.com
+---
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Rohitsaw6207/count.svg?"  />
@@ -77,9 +85,3 @@
 </div>
 
 ###
----
-
-## 📫 Let's Connect!
-
-- **GitHub:** https://github.com/Rohitsaw6207
-- **Email:** rohitku6207@gmail.com
