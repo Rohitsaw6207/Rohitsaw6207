@@ -58,8 +58,8 @@
 - **MCKV College of Engineering**
   - **Course:** B.VOC In Softaware Development
   - **Year:** 2nd Year(3rd sem)
-  - **Current YGPA:** 8.8
-  - **Last Semester CGPA:** 9
+  - **Current YGPA:** 9
+  - **Last Semester CGPA:** 8.8
 
 ---
 
