@@ -1,6 +1,6 @@
 ## Rohit Kumar
 
-👋 Hi, I am **Rohit Kumar**, a passionate **Full Stack Web Developer** and **B.VOC Software Development** student at **MCKV College of Engineering**.  
+👋 Hi, I am **Rohit Kumar**, a passionate **Web Developer** and **B.VOC Software Development** student at **MCKV College of Engineering**.  
 🌱 Currently, I am in my **2nd year** and focusing on **Web development**, **Mern stack**, **Java Spring Framework**.
 
 ---
@@ -83,5 +83,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rohitsaw6207&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohitsaw6207&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
+---
 ###
