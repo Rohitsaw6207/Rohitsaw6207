@@ -1,4 +1,9 @@
-<h2 align="center">Hi 👋! My name is Rohit Kumar...<br>And I'm a Software Engineering Student, from Bokaro(Jharkhand), currently living in Howrah(Kolkata)....</h2>
+## Rohit Kumar
+
+👋 Hi, I am **Rohit Kumar**, a passionate **Full Stack Web Developer** and **B.VOC Software Development** student at **MCKV College of Engineering**.  
+🌱 Currently, I am in my **2nd year** and focusing on **Web development**, **Mern stack**, **Java Spring Framework**.
+
+---
 
 ###
 
