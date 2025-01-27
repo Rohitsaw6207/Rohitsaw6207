@@ -7,9 +7,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://www.gifcen.com/wp-content/uploads/2021/12/luffy-gif-15.gif"/>
 
 ###
 
