@@ -9,7 +9,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-boy-gifs&psig=AOvVaw04iRtV2YrToGTC9JiiqGnn&ust=1738068699151000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCMnc34lYsDFQAAAAAdAAAAABAg"  />
+<img align="right" height="150" src="https://media.tenor.com/O5EGwZuV3sEAAAAj/wave-hi.gif"/>
 
 ###
 
