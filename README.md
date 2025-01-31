@@ -1,7 +1,7 @@
 ## Rohit Kumar
 
 👋 Hi, I am **Rohit Kumar**, a passionate **Web Developer** and **B.VOC Software Development** student at **MCKV College of Engineering**.  
-🌱 Currently, I am in my **2nd year** and focusing on **Web development**, **Mern stack**, **Java Spring Framework**.
+🌱 Currently, I am in my **2nd year** and focusing on **Web development**, **Mern stack**.
 
 ---
 
