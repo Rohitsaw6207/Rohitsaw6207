@@ -4,8 +4,6 @@
 🌱 Currently, I am in my **2nd year** and focusing on **Web development**, **Mern stack**.
 
 ---
-
-
 ###
 
 ###
