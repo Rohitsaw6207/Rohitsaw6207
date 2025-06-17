@@ -49,6 +49,27 @@ I’m a 3rd-year Software Development student with a passion for full stack web 
 
 ---
 
+<h2 align="center">📬 Contact Me</h2>
+
+<p align="center">Let’s connect! Open to collaboration and freelance projects.</p>
+
+<p align="center">
+  <a href="https://wa.me/916207322327" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35"/>
+  </a>
+  <a href="mailto:rohitku6207@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohit-kumar-saw6207/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  <a href="https://rohitsaw6207.github.io/Rohit-Personal-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+  </a>
+</p>
+
+---
+
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
@@ -56,24 +77,3 @@ I’m a 3rd-year Software Development student with a passion for full stack web 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohitsaw6207&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=Rohitsaw6207&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
 </div>
-
----
-
-<h2 align="center">📬 Contact Me</h2>
-
-<p align="center">Let’s connect! Open to collaboration and freelance projects.</p>
-
-<p align="center">
-  <a href="https://wa.me/916207322327" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:rohitku6207@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rohit-kumar-saw6207/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://rohitsaw6207.github.io/Rohit-Personal-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
