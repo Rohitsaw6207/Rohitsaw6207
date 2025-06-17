@@ -14,6 +14,7 @@ I’m a 3rd-year Software Development student with a passion for full stack web 
 <h2 align="center">💻 Tech Stack & Tools</h2>
 
 <br>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
@@ -30,7 +31,6 @@ I’m a 3rd-year Software Development student with a passion for full stack web 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
 </p>
 
-<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="28" />
