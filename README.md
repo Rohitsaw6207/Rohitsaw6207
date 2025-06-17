@@ -47,7 +47,7 @@ I’m a 3rd-year Software development student with a passion for full stack web 
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight" alt="GitHub Streak"/>
 ### 📊 GitHub Contributions
-![GitHub Contribution Graph](https://ghchart.rshah.org/YOUR_GITHUB_USERNAME)
+![GitHub Contribution Graph](https://ghchart.rshah.org/Rohitsaw6207)
 </p>
 
 
@@ -55,13 +55,13 @@ I’m a 3rd-year Software development student with a passion for full stack web 
 ### 📬 Contact Me
 
 <p align="center">
-  <a href="https://wa.me/91XXXXXXXXXX" target="_blank">
+  <a href="https://wa.me/916207322327" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:rohitku6207@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/rohit-kumar-saw6207/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
