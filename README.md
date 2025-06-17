@@ -2,7 +2,7 @@
 <h1 align="center">🚀 Full Stack Web Developer | MERN Stack | PHP Full Stack Developer</h1>
 
 <p align="center">
-I’m a 3rd-year Software Development student with a passion for full stack web development. I specialize in the MERN stack and have hands-on experience in building responsive, real-time web applications. I’ve interned as a PHP backend developer at Tredon Tech and also explored Android development with Java. I love turning ideas into scalable digital solutions and constantly seek opportunities to learn, build, and grow.
+I’m a 3rd-year Software Development student with a passion for full stack web development. I specialize in the MERN stack and Php full stack and have hands-on experience in building responsive, real-time web applications. I’ve interned as a PHP backend developer at Tredon Tech and also explored Android development with Java. I love turning ideas into scalable digital solutions and constantly seek opportunities to learn, build, and grow.
 </p>
 
 <p align="center">
@@ -11,50 +11,9 @@ I’m a 3rd-year Software Development student with a passion for full stack web 
 
 ---
 
-<h2 align="center">🎓 Education</h2>
-
-<p align="center">
-Strong academic foundation in software development with excellent academic performance.
-</p>
-
-<ul>
-  <li>College: MCKV Institute of Engineering</li>
-  <li>Subject: Bachelor of Vocational in Software Development (2024 - Present)</li>
-  <li>Current SGPA: 9</li>
-  <li>Last Semester CGPA: 8.5</li>
-</ul>
-
----
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-Actively contributing to open-source projects and personal repositories.
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohitsaw6207&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohitsaw6207&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
-</div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rohitsaw6207&theme=dracula&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=Rohitsaw6207&theme=dracula" alt="Contribution Graph"/>
-</p>
-
----
-
 <h2 align="center">💻 Tech Stack & Tools</h2>
 
 <p align="center">
-Tools and technologies I work with to build modern, scalable web and mobile applications.
-</p>
-
-<p align="center">
-  <!-- Core Tech -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -71,7 +30,6 @@ Tools and technologies I work with to build modern, scalable web and mobile appl
 </p>
 
 <p align="center">
-  <!-- Extra Tools -->
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="28"/>
@@ -81,11 +39,41 @@ Tools and technologies I work with to build modern, scalable web and mobile appl
 
 ---
 
-<h2 align="center">📬 Contact Me</h2>
+<h2 align="center">🎓 Education</h2>
+
+<p align="center">Pursuing software development with consistent academic excellence.</p>
+
+<ul>
+  <li>College: MCKV Institute of Engineering</li>
+  <li>Subject: Bachelor of Vocational in Software Development (2024 - Present)</li>
+  <li>Current SGPA: 9</li>
+  <li>Last Semester CGPA: 8.5</li>
+</ul>
+
+---
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">My contributions and language stats on GitHub.</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohitsaw6207&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohitsaw6207&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages"/>
+</div>
 
 <p align="center">
-Feel free to connect or reach out for collaboration or freelance work.
+  <img src="https://streak-stats.demolab.com?user=Rohitsaw6207&theme=dracula&hide_border=false" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://github-contribution-grid.vercel.app/api?username=Rohitsaw6207&theme=dracula" alt="GitHub Contribution Graph"/>
+</p>
+
+---
+
+<h2 align="center">📬 Contact Me</h2>
+
+<p align="center">Let’s connect! Open to collaboration and freelance projects.</p>
 
 <p align="center">
   <a href="https://wa.me/916207322327" target="_blank">
@@ -98,6 +86,6 @@ Feel free to connect or reach out for collaboration or freelance work.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://rohitsaw6207.github.io/Rohit-Personal-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
