@@ -57,10 +57,6 @@ I’m a 3rd-year Software Development student with a passion for full stack web 
   <img src="https://streak-stats.demolab.com?user=Rohitsaw6207&theme=dracula&hide_border=false" height="150" alt="GitHub Streak"/>
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohitsaw6207&theme=dracula&no-frame=true&row=1" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 <h2 align="center">📬 Contact Me</h2>
