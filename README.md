@@ -1,39 +1,21 @@
 <!-- Heading -->
 <h1 align="center">🚀 Full Stack Web Developer | MERN Stack | PHP Full Stack Developer</h1>
 
-<!-- Bio -->
 <p align="center">
 I’m a 3rd-year Software Development student with a passion for full stack web development. I specialize in the MERN stack and have hands-on experience in building responsive, real-time web applications. I’ve interned as a PHP backend developer at Tredon Tech and also explored Android development with Java. I love turning ideas into scalable digital solutions and constantly seek opportunities to learn, build, and grow.
 </p>
 
-<!-- Banner -->
 <p align="center">
   <img src="./Beige Feminine Personal LinkedIn Banner (2).png" alt="Banner" width="100%"/>
 </p>
 
 ---
 
-<h3 align="center">💻 Tech Stack & Tools</h3>
+<h2 align="center">🎓 Education</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+Strong academic foundation in software development with excellent academic performance.
 </p>
-
----
-
-<h3 align="center">🎓 Education</h3>
 
 <ul>
   <li>College: MCKV Institute of Engineering</li>
@@ -44,7 +26,11 @@ I’m a 3rd-year Software Development student with a passion for full stack web 
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+Actively contributing to open-source projects and personal repositories.
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohitsaw6207&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
@@ -61,7 +47,45 @@ I’m a 3rd-year Software Development student with a passion for full stack web 
 
 ---
 
-<h3 align="center">📬 Contact Me</h3>
+<h2 align="center">💻 Tech Stack & Tools</h2>
+
+<p align="center">
+Tools and technologies I work with to build modern, scalable web and mobile applications.
+</p>
+
+<p align="center">
+  <!-- Core Tech -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+</p>
+
+<p align="center">
+  <!-- Extra Tools -->
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Hostinger-673de6?style=for-the-badge&logo=hostinger&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=responsive&logoColor=white" height="28"/>
+</p>
+
+---
+
+<h2 align="center">📬 Contact Me</h2>
+
+<p align="center">
+Feel free to connect or reach out for collaboration or freelance work.
+</p>
 
 <p align="center">
   <a href="https://wa.me/916207322327" target="_blank">
