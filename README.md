@@ -11,11 +11,11 @@ I’m a 3rd-year Software Development student with a passion for full stack web 
   <img src="./Beige Feminine Personal LinkedIn Banner (2).png" alt="Banner" width="100%"/>
 </p>
 
-<!-- Core Skills with Devicon -->
+---
+
 ### 💻 Tech Stack & Tools
 
 <p align="center">
-  <!-- Web & Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
@@ -34,20 +34,28 @@ I’m a 3rd-year Software Development student with a passion for full stack web 
 ---
 
 ### 🎓 Education
-- **B.Tech in Software Development** (3rd Year)
+
+- **MCKV College of Engineering**
+  - Course: B.Voc in Software Development (Bachelor of Vocational in Software Development)
+  - Year: 3rd Semester (2023 - Present)
+  - Current YGPA: 9
+  - Last Semester CGPA: 8.5
 
 ---
 
 ### 📈 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohitsaw6207&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohitsaw6207&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohitsaw6207&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitsaw6207&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rohitsaw6207&theme=tokyonight" alt="GitHub Streak"/>
-  <br><br>
-  ![GitHub Contribution Graph](https://ghchart.rshah.org/Rohitsaw6207)
+  <img src="https://streak-stats.demolab.com?user=Rohitsaw6207&theme=dracula&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-grid.vercel.app/api?username=Rohitsaw6207&theme=dracula" alt="Contribution Graph"/>
 </p>
 
 ---
