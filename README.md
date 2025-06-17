@@ -41,8 +41,6 @@ I’m a 3rd-year Software Development student with a passion for full stack web 
 
 <h2 align="center">🎓 Education</h2>
 
-<p align="center">Pursuing software development with consistent academic excellence.</p>
-
 <ul>
   <li>College: MCKV Institute of Engineering</li>
   <li>Subject: Bachelor of Vocational in Software Development (2024 - Present)</li>
@@ -53,8 +51,6 @@ I’m a 3rd-year Software Development student with a passion for full stack web 
 ---
 
 <h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">My contributions and language stats on GitHub.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohitsaw6207&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats"/>
