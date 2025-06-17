@@ -34,7 +34,6 @@ I’m a 3rd-year Software Development student with a passion for full stack web 
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Hostinger-673de6?style=for-the-badge&logo=hostinger&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=responsive&logoColor=white" height="28"/>
 </p>
 
 ---
