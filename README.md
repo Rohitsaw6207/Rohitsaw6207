@@ -61,7 +61,7 @@ I’m a 3rd-year Software Development student with a passion for full stack web 
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=Rohitsaw6207&theme=dracula" alt="GitHub Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/dracula/Rohitsaw6207" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
