@@ -57,7 +57,6 @@ I’m a 3rd-year Software Development student with a passion for full stack web 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohitsaw6207&show_icons=true&theme=dracula&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohitsaw6207&layout=compact&theme=dracula" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=Rohitsaw6207&theme=dracula&hide_border=false" height="150" />
 </div>
 
 ---
