@@ -56,7 +56,7 @@ I’m a 3rd-year Software Development student with a passion for full stack web 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohitsaw6207&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohitsaw6207&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Rohitsaw6207&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rohitsaw6207&theme=dracula&hide_border=false" height="150" alt="GitHub Streak"/>
 </div>
 
 ---
