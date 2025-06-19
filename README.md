@@ -44,7 +44,7 @@ I’m a 3rd-year Software Development student with a passion for full stack web 
 
 <ul>
   <li><strong>College:</strong> MCKV Institute of Engineering</li>
-  <li><strong>Subject:</strong> Bachelor of Vocational in Software Development (2024 - Present)</li>
+  <li><strong>Subject:</strong> Bachelor of Vocational in Software Development (2023 - Present)</li>
   <li><strong>Current SGPA:</strong> 9</li>
   <li><strong>Last Semester CGPA:</strong> 8.5</li>
 </ul>
