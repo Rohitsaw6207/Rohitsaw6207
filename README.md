@@ -2,7 +2,7 @@
 <h1 align="center">🚀 Full Stack Web Developer | MERN Stack | PHP Full Stack Developer</h1>
 
 <p align="center">
-I’m a 3rd-year Software Development student with a passion for full stack web development. I specialize in the MERN stack and PHP full stack and have hands-on experience in building responsive, real-time web applications. I’ve interned as a PHP backend developer at Tredon Tech and also explored Android development with Java. I love turning ideas into scalable digital solutions and constantly seek opportunities to learn, build, and grow.
+I’m a 3rd-year Software Development student with a passion for full stack web development. I specialize in the MERN stack and PHP full stack and have hands-on experience in building responsive, real-time web applications. I’ve interned as a PHP backend developer at Trideon Tech and also explored Android development with Java. I love turning ideas into scalable digital solutions and constantly seek opportunities to learn, build, and grow.
 </p>
 
 <p align="center">
