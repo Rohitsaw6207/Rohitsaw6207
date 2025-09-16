@@ -10,7 +10,6 @@ I’m a 3rd-year Software Development student with a passion for full stack web 
 </p>
 
 ---
-
 <h2 align="center">💻 Tech Stack & Tools</h2>
 
 <br>
