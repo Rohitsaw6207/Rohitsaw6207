@@ -6,7 +6,7 @@ I’m a final-year Software Development student with a strong interest in full s
 </p>
 
 <p align="center">
-  <img src=".image.png" alt="Banner" width="100%"/>
+  <img src="image.png" alt="Banner" width="100%"/>
 </p> 
 
 ---
