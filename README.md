@@ -8,9 +8,7 @@ I’m a final-year Software Development student with a strong interest in full s
 <p align="center">
   <img src="image.png" alt="Banner" width="100%"/>
 </p> 
-
 ---
-
 
 <h2 align="center">💻 Tech Stack & Tools</h2>
 
