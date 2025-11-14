@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="image.png" alt="Banner" width="100%"/>
-  
 </p>
 
 ---
@@ -15,68 +14,71 @@
 <h2 align="center" style="font-family: 'Poppins', sans-serif; color:#ffcc66;">💻 Tech Stack</h2>
 <br>
 
-<!-- Programming Languages -->
 <h3 align="center" style="font-family: 'Poppins', sans-serif; color:#66d9ef;">Programming Languages</h3>
 <table align="center">
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="55" />
-<img src="https://skillicons.dev/icons?i=c" width="55" />
-<img src="https://skillicons.dev/icons?i=javascript" width="55" />
-<img src="https://skillicons.dev/icons?i=php" width="55" />
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="55" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=c" width="55" alt="C" />
+      <img src="https://skillicons.dev/icons?i=javascript" width="55" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=php" width="55" alt="PHP" />
+    </td>
+  </tr>
 </table>
 <br>
 
-<!-- Web Development -->
 <h3 align="center" style="font-family: 'Poppins', sans-serif; color:#66d9ef;">Web Development</h3>
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<strong style="color:#ffd966; font-family:'Poppins'">Frontend</strong><br><br>
-<img src="https://skillicons.dev/icons?i=html" width="55" />
-<img src="https://skillicons.dev/icons?i=css" width="55" />
-<img src="https://skillicons.dev/icons?i=react" width="55" />
-<img src="https://skillicons.dev/icons?i=tailwind" width="55" />
-</td>
+<table align="center" style="max-width:900px;width:100%;">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <strong style="color:#ffd966; font-family:'Poppins'">Frontend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS" />
+      <img src="https://skillicons.dev/icons?i=react" width="55" alt="React" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" alt="Tailwind" />
+    </td>
 
-<td align="center" width="50%">
-<strong style="color:#ffd966; font-family:'Poppins'">Backend</strong><br><br>
-<img src="https://skillicons.dev/icons?i=nodejs" width="55" />
-<img src="https://skillicons.dev/icons?i=laravel" width="55" />
-<img src="https://skillicons.dev/icons?i=firebase" width="55" />
-<img src="https://skillicons.dev/icons?i=socketio" width="55" />
-</td>
-</tr>
+    <td align="center" width="50%" valign="top">
+      <strong style="color:#ffd966; font-family:'Poppins'">Backend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=laravel" width="55" alt="Laravel" />
+      <img src="https://skillicons.dev/icons?i=firebase" width="55" alt="Firebase" />
+      <img src="https://skillicons.dev/icons?i=socketio" width="55" alt="Socket.io" />
+    </td>
+  </tr>
 </table>
 <br>
 
-<!-- Databases -->
 <h3 align="center" style="font-family: 'Poppins', sans-serif; color:#66d9ef;">Databases & Data Technologies</h3>
 <table align="center">
-<tr><td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="55" />
-<img src="https://skillicons.dev/icons?i=mongodb" width="55" />
-<img src="https://skillicons.dev/icons?i=firebase" width="55" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="32" />
-</td></tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="55" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=oracle" width="55" alt="Oracle" />
+    </td>
+  </tr>
 </table>
 <br>
 
-<!-- Tools -->
 <h3 align="center" style="font-family: 'Poppins', sans-serif; color:#66d9ef;">Tools & Platforms</h3>
-<table align="center">
-<tr><td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="55" />
-<img src="https://skillicons.dev/icons?i=github" width="55" />
-<img src="https://skillicons.dev/icons?i=vscode" width="55" />
-<img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/Hostinger-673de6?style=for-the-badge&logo=hostinger&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="32" />
-</td></tr>
+<table align="center" style="max-width:900px;width:100%;">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=git" width="55" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code" />
+      <img src="https://skillicons.dev/icons?i=postman" width="55" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=cloudinary" width="55" alt="Cloudinary" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding-top:10px;">
+      <img src="https://img.shields.io/badge/Hostinger-673de6?style=for-the-badge&logo=hostinger&logoColor=white" height="28" alt="Hostinger" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="28" alt="Render" />
+    </td>
+  </tr>
 </table>
 <br>
 ---
@@ -99,19 +101,17 @@
 
 ---
 
-
-<h2 align="center">📬 Contact Me 🌐 </h2>
+<h2 align="center">📬 Contact Me 🌐</h2>
 <p align="center">Let’s connect! Open to collaboration and creative projects.</p>
 
 <p align="center">
   <a href="https://wa.me/916207322327" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="32" alt="WhatsApp"/>
   </a>
   <a href="mailto:rohitku6207@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/rohit-kumar-saw6207/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"/>
   </a>
-  
 </p>
