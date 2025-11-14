@@ -72,11 +72,17 @@ I’m a final-year Software Development student with a strong interest in full s
 
 ---
 
+<!-- Education -->
 <h2 align="center">🎓 Education</h2>
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+###
 
-<p align="left">College : MCKV Institute of Engineering <br>Course: Bachelor of Vocational in Software Development (2023 - Present)<br>Last Semester SGPA : 9.6 <br>Current YGPA : 9.03</p>
+<ul>
+  <li><strong>College:</strong> MCKV Institute of Engineering</li>
+  <li><strong>Subject:</strong> Bachelor of Vocational in Software Development (2023 - Present)</li>
+  <li><strong>Last Semester SGPA:</strong> 9.6 </li>
+  <li><strong>Current YGPA:</strong> 9.03 </li>
+</ul>
 
 ---
 
