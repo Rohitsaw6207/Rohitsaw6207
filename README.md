@@ -69,19 +69,16 @@ I’m a final-year Software Development student with a strong interest in full s
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
-###
+---
 
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
-###
 
 <h2 align="center">🎓 Education</h2>
 
-###
-
 <p align="left">MCKV Institute of Engineering<br>Bachelor of Vocational in Software Development (2023 - Present)<br>Last Semester SGPA : 9.6 <br>Current YGPA : 9.03</p>
 
-###
+---
 
 <h2 align="center">📈 GitHub Stats</h2>
 
