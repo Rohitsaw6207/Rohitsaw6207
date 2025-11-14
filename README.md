@@ -2,98 +2,59 @@
 <h1 align="center">🚀 Developer | Learning Continuously | Building Across Tech Areas</h1>
 
 <p align="center">
-  I’m a final-year Software Development student with a strong interest in full stack web development. I’ve interned as a PHP backend developer at Trideon Tech and completed industrial trainings in Laravel and PHP Full Stack Development. I’ve also explored data analytics, earning certifications in Power BI and Advanced Excel, which strengthened my understanding of data visualization and insights. Alongside this, I have basic knowledge of Android development using Java and enjoy building scalable digital solutions while continuously learning and improving my skills.
+I’m a final-year Software Development student with a strong interest in full stack web development. I’ve interned as a PHP backend developer at Trideon Tech and completed industrial trainings in Laravel and PHP Full Stack Development. I’ve also explored data analytics, earning certifications in Power BI and Advanced Excel, which strengthened my understanding of data visualization and insights. Alongside this, I have basic knowledge of Android development using Java and enjoy building scalable digital solutions while continuously learning and improving my skills.
 </p>
 
 <p align="center">
   <img src="image.png" alt="Banner" width="100%"/>
+</p> 
+
+---
+
+<h2 align="center">💻 Tech Stack & Tools</h2>
+
+<br>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Hostinger-673de6?style=for-the-badge&logo=hostinger&logoColor=white" height="28" />
 </p>
 
 ---
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif; color:#ffcc66;">💻 Tech Stack</h2>
-<br>
-
-<h3 align="center" style="font-family: 'Poppins', sans-serif; color:#66d9ef;">Programming Languages</h3>
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="55" alt="Java" />
-      <img src="https://skillicons.dev/icons?i=c" width="55" alt="C" />
-      <img src="https://skillicons.dev/icons?i=javascript" width="55" alt="JavaScript" />
-      <img src="https://skillicons.dev/icons?i=php" width="55" alt="PHP" />
-    </td>
-  </tr>
-</table>
-<br>
-
-<h3 align="center" style="font-family: 'Poppins', sans-serif; color:#66d9ef;">Web Development</h3>
-<table align="center" style="max-width:900px;width:100%;">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <strong style="color:#ffd966; font-family:'Poppins'">Frontend</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML" />
-      <img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS" />
-      <img src="https://skillicons.dev/icons?i=react" width="55" alt="React" />
-      <img src="https://skillicons.dev/icons?i=tailwind" width="55" alt="Tailwind" />
-    </td>
-
-    <td align="center" width="50%" valign="top">
-      <strong style="color:#ffd966; font-family:'Poppins'">Backend</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js" />
-      <img src="https://skillicons.dev/icons?i=laravel" width="55" alt="Laravel" />
-      <img src="https://skillicons.dev/icons?i=firebase" width="55" alt="Firebase" />
-      <img src="https://skillicons.dev/icons?i=socketio" width="55" alt="Socket.io" />
-    </td>
-  </tr>
-</table>
-<br>
-
-<h3 align="center" style="font-family: 'Poppins', sans-serif; color:#66d9ef;">Databases & Data Technologies</h3>
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL" />
-      <img src="https://skillicons.dev/icons?i=mongodb" width="55" alt="MongoDB" />
-      <img src="https://skillicons.dev/icons?i=oracle" width="55" alt="Oracle" />
-    </td>
-  </tr>
-</table>
-<br>
-
-<h3 align="center" style="font-family: 'Poppins', sans-serif; color:#66d9ef;">Tools & Platforms</h3>
-<table align="center" style="max-width:900px;width:100%;">
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=git" width="55" alt="Git" />
-      <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub" />
-      <img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code" />
-      <img src="https://skillicons.dev/icons?i=postman" width="55" alt="Postman" />
-      <img src="https://skillicons.dev/icons?i=cloudinary" width="55" alt="Cloudinary" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding-top:10px;">
-      <img src="https://img.shields.io/badge/Hostinger-673de6?style=for-the-badge&logo=hostinger&logoColor=white" height="28" alt="Hostinger" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Vercel" />
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="28" alt="Render" />
-    </td>
-  </tr>
-</table>
-<br>
----
-
 <h2 align="center">🎓 Education</h2>
+
 <ul>
   <li><strong>College:</strong> MCKV Institute of Engineering</li>
   <li><strong>Subject:</strong> Bachelor of Vocational in Software Development (2023 - Present)</li>
-  <li><strong>Last Semester SGPA:</strong> 9.6</li>
-  <li><strong>Current YGPA:</strong> 9.03</li>
+  <li><strong>Last Semester SGPA:</strong> 9.6 </li>
+  <li><strong>Current YGPA:</strong> 9.03 </li>
 </ul>
 
 ---
 
 <h2 align="center">📈 GitHub Stats</h2>
+
+<div align="center">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohitsaw6207&show_icons=true&theme=dracula&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohitsaw6207&layout=compact&theme=dracula" height="150" />
@@ -101,17 +62,21 @@
 
 ---
 
-<h2 align="center">📬 Contact Me 🌐</h2>
-<p align="center">Let’s connect! Open to collaboration and creative projects.</p>
+<h2 align="center">📬 Contact Me</h2>
+
+<p align="center">Let’s connect! Open to collaboration and freelance projects.</p>
 
 <p align="center">
   <a href="https://wa.me/916207322327" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="32" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="32"/>
   </a>
   <a href="mailto:rohitku6207@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
   </a>
   <a href="https://www.linkedin.com/in/rohit-kumar-saw6207/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
+  </a>
+  <a href="https://rohitsaw6207.github.io/Rohit-Personal-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" height="32"/>
   </a>
 </p>
