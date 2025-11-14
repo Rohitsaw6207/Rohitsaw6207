@@ -15,32 +15,64 @@ I’m a final-year Software Development student with a strong interest in full s
 
 <br>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
 </p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="45" alt="android logo"  />
+</div>
+
+###
+
+<br clear="both">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Hostinger-673de6?style=for-the-badge&logo=hostinger&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28" />
 </p>
 
----
+###
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+
+<!-- Education -->
 <h2 align="center">🎓 Education</h2>
 
 <ul>
@@ -55,14 +87,13 @@ I’m a final-year Software Development student with a strong interest in full s
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohitsaw6207&show_icons=true&theme=dracula&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohitsaw6207&layout=compact&theme=dracula" height="150" />
 </div>
 
 ---
 
-<h2 align="center">📬 Contact Me</h2>
+<h2 align="center">📬 Connect With Me 🌐</h2>
 
 <p align="center">Let’s connect! Open to collaboration and freelance projects.</p>
 
