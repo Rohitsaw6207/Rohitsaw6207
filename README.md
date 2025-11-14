@@ -106,10 +106,10 @@ I’m a final-year Software Development student with a strong interest in full s
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
 </a>
 <a href="https://rohitsaw6207.github.io/Rohit-Personal-Portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Portfolio-9B59B6?style=for-the-badge&logo=googlechrome&logoColor=white" height="32"/>
 </a>
 <a href="https://rohit-project-showcase-site.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Project%20Showcase-34A853?style=for-the-badge&logo=googlechrome&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Project%20Showcase-F39C12?style=for-the-badge&logo=googlechrome&logoColor=white" height="32"/>
 </a>
 </p>
 
