@@ -6,6 +6,7 @@
 I’m a final-year Software Development student with a strong interest in full stack web development. I’ve interned as a PHP backend developer at Trideon Tech and completed industrial trainings in Laravel and PHP Full Stack Development. I’ve also explored data analytics, earning certifications in Power BI and Advanced Excel, which strengthened my understanding of data visualization and insights. Alongside this, I have basic knowledge of Android development using Java and enjoy building scalable digital solutions while continuously learning and improving my skills.
 </p>
 
+
 <p align="center"> 
   <img src="image.png" alt="Banner" width="100%"/>
 </p> 
