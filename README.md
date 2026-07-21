@@ -158,7 +158,7 @@ style="padding:25px;border:1px solid #30363d;border-radius:12px;">
 <td width="60%" valign="middle"
 style="padding:25px;border:1px solid #30363d;border-radius:12px;">
 
-<h1 align="center">🚀 Beyond the Code</h1>
+<h2 align="center">🚀 Beyond the Code</h2>
 
 <p align="center">
   I build scalable web applications, explore AI-powered solutions,<br/>
