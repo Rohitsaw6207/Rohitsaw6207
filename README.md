@@ -210,5 +210,5 @@ style="padding:25px;border:1px solid #30363d;border-radius:12px;">
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=600&size=18&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=900&lines=✨+This+README+is+crafted+with+intent+by+Rohit+Kumar+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=600&size=25&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=900&lines=✨+This+README+is+crafted+with+intent+by+Rohit+Kumar+✨" />
 </p>
