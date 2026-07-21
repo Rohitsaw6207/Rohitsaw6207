@@ -200,16 +200,14 @@ style="padding:25px;border:1px solid #30363d;border-radius:12px;">
 <img src="assets/Connect-section-pic1.png" width="80%" />
 
 </td>
-
 </tr>
 </table>
-<br>
 
-<p align="center">
-  <a href="https://www.buymeachai.in/rohitku6207" target="_blank">
-    <img src="assets/buymeachai-logo.png" height="60" alt="Buy Me a Chai"/>
+<div align="center">
+  <a href="https://www.buymeachai.in/rohitku6207">
+    <img src="assets/buymeachai-logo.png" height="150" alt="Buy Me a Chai"/>
   </a>
-</p>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=600&size=18&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=900&lines=✨+This+README+is+crafted+with+intent+by+Rohit+Kumar+✨" />
